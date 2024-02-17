@@ -1,0 +1,40 @@
+.col{
+    background: #8e948e;
+}
+.card-title{
+    font-size: 14px;
+}
+.card-img-top{
+    height: 180px;
+    object-fit: cover;
+}
+.sidebar{
+    background-color: #17A2B8;
+    height: 100%;
+    width: 100%;
+}
+.card{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.sidebar a{
+    text-align: center;
+    color: white;
+    display: block;
+   text-decoration: none !important;
+   color: black;
+
+}
+.sidebar a:hover {
+    background-color:#17A2B8 !important;
+    color: white !important;
+  }
+  .navbar-nav button:hover{
+    background-color:#17A2B8 !important;
+    color: white !important;
+  }
+
+  /*product css*/
+.image{
+    height: 200px;
+    weight:100%;
+}
